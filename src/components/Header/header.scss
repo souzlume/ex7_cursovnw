@@ -25,7 +25,7 @@ header {
     cursor: pointer;
     gap: 3rem;
     font-family: $font-primary;
-    font-size: 18px;
+    font-size: 1.2em;
     font-weight: 500;
     padding: 1rem 5rem;
   }
@@ -83,7 +83,5 @@ header {
 @media (max-width: 480px) {
   .door {
     width: 100%;
-    border-bottom-left-radius: 0;
-    border-top-left-radius: 0;
   }
 }
