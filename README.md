@@ -4,8 +4,7 @@
 # Demonstração
 https://ex7-cursovnw.vercel.app/
 
-# Acesse o projeto aqui:
-[Passoia - projeto front-end](https://github.com/souzlume/ex7_cursovnw)
+# Página do projeto:
 ![Header](src/assets/header.png)
 ![Looks](src/assets/looks.png)
 ![Lancamentos](src/assets/lancamentos.png)
