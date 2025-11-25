@@ -1,14 +1,15 @@
-$font-primary: "Poppins", sans-serif;
-$font-secundary: "Roboto", sans-serif;
+$font-primary: "Roboto", sans-serif;
 $pink: #db39c6;
+$gray: #2D2D2D;
+$shadow: #868686;
 
 h1 {
-  font-family: $font-secundary;
+  font-family: $font-primary;
   display: flex;
   justify-content: center;
   margin: 3rem 2rem;
   font-size: 30px;
-  color: #2d2d2d;
+  color: $gray;
 }
 
 .looks {
@@ -28,7 +29,7 @@ h1 {
       height: 400px;
       object-fit: cover;
       border-radius: 10px;
-      box-shadow: 1px 1px 10px #868686;
+      box-shadow: 1px 1px 10px $shadow;
 
       &:hover {
         box-shadow: 0 4px 12px $pink;
@@ -36,12 +37,12 @@ h1 {
     }
 
     .subtitles {
-      font-family: $font-secundary;
+      font-family: $font-primary;
       position: absolute;
       font-weight: 700;
       top: 85%;
       left: 10%;
-      color: #ffffff;
+      color: white;
       font-size: 30px;
       transition: 0.3s ease;
     }

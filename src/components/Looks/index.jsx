@@ -19,6 +19,7 @@ function Looks() {
             <span className="subtitles">LÁBIOS</span>
           </div>
         </div>
+
         <div className="cards">
           <div className="cards-btn">
             <img
@@ -29,6 +30,7 @@ function Looks() {
             <span className="subtitles">OLHOS</span>
           </div>
         </div>
+
         <div className="cards">
           <div className="cards-btn">
             <img
@@ -39,6 +41,7 @@ function Looks() {
             <span className="subtitles">ROSTO</span>
           </div>
         </div>
+        
         <div className="cards">
           <div className="cards-btn">
             <img

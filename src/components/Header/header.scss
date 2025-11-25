@@ -1,5 +1,7 @@
 $font-primary: "Poppins", sans-serif;
 $pink: #db39c6;
+$gray: #2D2D2D;
+$shadow: #868686;
 
 * {
   margin: 0;
@@ -12,7 +14,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  box-shadow: 1px 1px 10px #000000;
+  box-shadow: 1px 1px 10px $shadow;
   position: relative;
 
   img {
@@ -35,7 +37,7 @@ header {
 
     a {
       text-decoration: none;
-      color: #000000;
+      color: $gray;
 
       &:hover {
         color: $pink;
@@ -47,7 +49,7 @@ header {
 .btn-menu {
   background-color: transparent;
   border: none;
-  color: #000000;
+  color: $gray;
   cursor: pointer;
   margin-right: 4rem;
   display: none;
@@ -69,8 +71,8 @@ header {
     position: absolute;
     top: 100px;
     right: 0;
-    background-color: #ffffff;
-    box-shadow: 1px 1px 10px #a7a7a7;
+    background-color: white;
+    box-shadow: 1px 1px 10px $shadow;
 
     ul {
       flex-direction: column;

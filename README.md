@@ -1,5 +1,26 @@
-opa! e aí, beleza?
-estou aprendendo react + javascript 
+> Uma landing page moderna e responsiva sobre maquiagem, desenvolvida com React, JavaScript, HTML e SCSS.
+> Esse projeto foi criado como prática de front-end, explorando conceitos de componentização, animações, estilização modular e estados dinâmicos.
 
-por aqui vou atualizar todas as coisas que aprendi junto a um projeto que estou desenvolvendo com o curso do vai na web 
-caso alguém leia isso aqui, espero que curta!
+# Demonstração
+https://ex7-cursovnw.vercel.app/
+
+# Acesse o projeto aqui:
+[Passoia - projeto front-end](https://github.com/souzlume/ex7_cursovnw)
+![Header](assets/header.png)
+![Looks](assets/looks.png)
+![Lancamentos](assets/lancamentos.png)
+![Footer](assets/footer.png)
+
+| Tecnologia          | Uso                                          |
+| ------------------- | -------------------------------------------- |
+| **React**           | Componentização e gerenciamento de interface |
+| **JavaScript ES6+** | Lógica da aplicação                          |
+| **HTML5**           | Estrutura semântica                          |
+| **SCSS (Sass)**     | Estilização avançada e responsiva            |
+
+# Objetivo do Projeto
+O foco deste projeto é:
+    - Aprimorar a habilidade de construir interfaces modernas
+    - Praticar React com SCSS  
+    - Criar um ambiente visual inspirador e profissional
+    - Reforçar conceitos como useState, componentização e responsividade
