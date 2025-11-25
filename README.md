@@ -19,7 +19,4 @@ https://ex7-cursovnw.vercel.app/
 
 # Objetivo do Projeto
 O foco deste projeto é:
-Aprimorar a habilidade de construir interfaces modernas
-Praticar React com SCSS  
-Criar um ambiente visual inspirador e profissional
-Reforçar conceitos como useState, componentização e responsividade
+Aprimorar a habilidade de construir interfaces modernas; praticar React com SCSS; criar um ambiente visual inspirador e profissional; reforçar conceitos como useState, componentização e responsividade
