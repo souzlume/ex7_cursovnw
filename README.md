@@ -6,10 +6,10 @@ https://ex7-cursovnw.vercel.app/
 
 # Acesse o projeto aqui:
 [Passoia - projeto front-end](https://github.com/souzlume/ex7_cursovnw)
-![Header](assets/header.png)
-![Looks](assets/looks.png)
-![Lancamentos](assets/lancamentos.png)
-![Footer](assets/footer.png)
+![Header](src/assets/header.png)
+![Looks](src/assets/looks.png)
+![Lancamentos](src/assets/lancamentos.png)
+![Footer](src/assets/footer.png)
 
 | Tecnologia          | Uso                                          |
 | ------------------- | -------------------------------------------- |
@@ -20,7 +20,7 @@ https://ex7-cursovnw.vercel.app/
 
 # Objetivo do Projeto
 O foco deste projeto é:
-    - Aprimorar a habilidade de construir interfaces modernas
-    - Praticar React com SCSS  
-    - Criar um ambiente visual inspirador e profissional
-    - Reforçar conceitos como useState, componentização e responsividade
+Aprimorar a habilidade de construir interfaces modernas
+Praticar React com SCSS  
+Criar um ambiente visual inspirador e profissional
+Reforçar conceitos como useState, componentização e responsividade
